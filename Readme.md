@@ -1,0 +1,4 @@
+# Blockchain and Incentive Model for Machine Translation
+
+## Abstract 
+Sending a small incentive over the internet that holds value was never more accessible and secure until blockchain came into light. Through this paper, we present a first of its kind model to incentivize data collection for low resource languages to improve machine translation accuracy. Along with the paper, we publicly release a high-quality corpus for English, parallel aligned to three other Indic languages submitted by human users in exchange for tokens as a reward. Our proposed methodology also handles the incorrect submission by users and resolves the data scarcity and reliability for almost all the natural language processing tasks.
